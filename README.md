@@ -6,7 +6,7 @@
 #### To view Snowy Potter in Glitch:
 **[View Snowy Potter](https://mysnowman.glitch.me/?)**
 #### To view a video of the Augmented Snowy Potter appearing over a QR code:
-**[View Snowy Potter Documentation](https://saharafathelbab.github.io/portfolio/documentation/HarryPotterSnowmanDocumentation/HarryPotterInfo.html?)**
+**[View Snowy Potter Video](https://saharafathelbab.github.io/Snowy-Potter/HarryPotterInfo.html?)**
 
 #### General Information
 
